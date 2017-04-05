@@ -1,0 +1,27 @@
+{
+  "name": "train-scheduler",
+  "version": "1.0.0",
+  "description": "train schedule app",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevinhubbard/Train-Scheduler.git"
+  },
+  "keywords": [
+    "firebase",
+    "node.js",
+    "momentum"
+  ],
+  "author": "Kevin Hubbard",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kevinhubbard/Train-Scheduler/issues"
+  },
+  "homepage": "https://github.com/kevinhubbard/Train-Scheduler#readme",
+  "dependencies": {
+    "moment": "^2.18.1"
+  }
+}
